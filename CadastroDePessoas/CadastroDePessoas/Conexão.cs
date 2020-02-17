@@ -20,9 +20,10 @@ namespace CadastroDePessoas
         public SqlConnection  conectar()
 
         {
-            if (con.State == System.Data.ConnectionState.Closed) //se essa conexão estiver fechada vai executar este código
+            if (con.State == System.Data.ConnectionState.Closed) //se essa  fechada vai executar este código
                 
             {
+                //conexão estiver aberta ele vai se conectar
                 con.Open();
 
             }
