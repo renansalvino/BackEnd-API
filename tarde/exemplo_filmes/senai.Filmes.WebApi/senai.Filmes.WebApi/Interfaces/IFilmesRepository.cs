@@ -12,13 +12,13 @@ namespace senai.Filmes.WebApi.Interfaces
 
         void CadastrarFilme(FilmeDomain Filme);
 
-        //void AtualizarIdCorpo(FilmeDomain filme);
+       void AtualizarIdCorpo(FilmeDomain filme);
 
-        //void AtualizarIdUrl(int id, FilmeDomain filmes);
+        void AtualizarIdUrl(int id, FilmeDomain filmes);
 
-        //void Deletar(int id);
+        void Deletar(int id);
 
-        //FilmeDomain BuscarPorId(int id);
+        FilmeDomain BuscarPorId(int id);
 
         
 
