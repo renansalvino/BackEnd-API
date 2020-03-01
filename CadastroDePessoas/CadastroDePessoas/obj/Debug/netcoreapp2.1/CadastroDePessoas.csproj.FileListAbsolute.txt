@@ -1,0 +1,14 @@
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\bin\Debug\netcoreapp2.1\CadastroDePessoas.deps.json
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\bin\Debug\netcoreapp2.1\CadastroDePessoas.runtimeconfig.json
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\bin\Debug\netcoreapp2.1\CadastroDePessoas.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\bin\Debug\netcoreapp2.1\CadastroDePessoas.dll
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\bin\Debug\netcoreapp2.1\CadastroDePessoas.pdb
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.RazorAssemblyInfo.cache
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.RazorAssemblyInfo.cs
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.RazorTargetAssemblyInfo.cache
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.dll
+C:\Users\36591349880\Desktop\Back-End API\CadastroDePessoas\CadastroDePessoas\obj\Debug\netcoreapp2.1\CadastroDePessoas.pdb
